@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Freddy Lau
 - 😄 I’m interested in watching Animation, gaming and game development
 - 👀 I'm a web developer who expertise on PHP, JavaScript, Typescript, CSS3, and HTML5
-- 🌱 I’m currently start learning Unity as I'm enjoy gaming and want to learn more about game development
+- 🌱 I’m currently start learning ReactJS and Unity as I'm enjoy learning new technologies
 - 📫 please reach me at lauk61885@gmail.com if you want to connect with me
 
 <!---
